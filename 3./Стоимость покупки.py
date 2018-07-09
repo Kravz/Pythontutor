@@ -1,0 +1,5 @@
+a = int(input())
+b = int(input())
+n = int(input())
+x = n*(100*a+b)
+print(x//100,x%100)
